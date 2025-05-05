@@ -18,4 +18,5 @@
 # Zig related gitignore
 zig-out/
 .zig-cache/
-.tcache/
+.tcache/all_eco_repos.txt
+exports.jsonl
